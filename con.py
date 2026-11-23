@@ -2,7 +2,7 @@ import os
 import platform
 import time
 os.system("pip install requests")
-fucck = platform.architecture]
+fucck = platform.architecture()[0]
 if fucck == '64bit':
     os.system('git pull')
     os.system('cclear')
