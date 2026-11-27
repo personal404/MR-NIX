@@ -8,14 +8,14 @@ if fuck == '64bit':
     os.system('clear')
     print('[•] YOUR DEVICE IS 64 BIT')
     time.sleep(2)
-    from ccc import ccc
+    from ccc import GREEN, RED, CYAN, ORANGE, LINE, sxr_main, autom_main
     ccc()
 if fuck == '32bit':
     os.system('git pull')
     os.system('clear')
     print('[•] YOUR DEVICE IS 32 BIT')
     time.sleep(2)
-    from ccc import ccc
+    from ccc import GREEN, RED, CYAN, ORANGE, LINE, sxr_main, autom_main
     ccc() 
 os.system('clear')
 print('\x1b[1;97m Soon Your Device Supported Tools ')
