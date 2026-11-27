@@ -8,7 +8,7 @@ if fuck == '64bit':
     os.system('clear')
     print('[•] YOUR DEVICE IS 64 BIT')
     time.sleep(2)
-    from c import ccc
+    from ccc import ccc
     ccc()
 if fuck == '32bit':
     os.system('git pull')
