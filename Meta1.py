@@ -8,14 +8,14 @@ if fuck == '64bit':
     os.system('clear')
     print('[•] YOUR DEVICE IS 64 BIT')
     time.sleep(2)
-    from snix import snix
-    snix()
+    from c import ccc
+    ccc()
 if fuck == '32bit':
     os.system('git pull')
     os.system('clear')
-    print('[•] YOUR DEVICE IS 64 BIT')
+    print('[•] YOUR DEVICE IS 32 BIT')
     time.sleep(2)
-    from snix import snix
-    snix() 
+    from ccc import ccc
+    ccc() 
 os.system('clear')
 print('\x1b[1;97m Soon Your Device Supported Tools ')
